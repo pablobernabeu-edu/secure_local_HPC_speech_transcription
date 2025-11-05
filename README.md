@@ -1398,7 +1398,7 @@ sbatch HPC_scripts/batch_transcription.sh
 If you use this workflow in your research, please cite:
 
 ```bibtex
-@software{speech_transcription_workflow,
+@software{secure_local_HPC_speech_transcription,
   title={Secure and Scalable Speech Transcription for Local and HPC},
   author={Pablo Bernabeu},
   year={2025},
