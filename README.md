@@ -1273,7 +1273,7 @@ For direct installation on local systems:
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/speech_transcription.git
+git clone https://github.com/pablobernabeu/secure_local_HPC_speech_transcription.git
 cd speech_transcription
 
 # Install dependencies
@@ -1402,7 +1402,7 @@ If you use this workflow in your research, please cite:
   title={Enhanced Speech Transcription and Speaker Diarisation Workflow},
   author={Pablo Bernabeu},
   year={2025},
-  url={https://github.com/pablobernabeu/speech_transcription}
+  url={https://github.com/pablobernabeu/secure_local_HPC_speech_transcription}
 }
 ```
 
