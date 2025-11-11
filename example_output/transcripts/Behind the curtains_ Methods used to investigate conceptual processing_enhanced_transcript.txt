@@ -3,7 +3,9 @@ Behind the curtains_ Methods used to investigate conceptual processing_enhanced
 
 Input file: Behind the curtains_ Methods used to investigate conceptual processing_enhanced.wav
 Processed: 2025-11-04 17:17:29
+Transcription system version: 1.0.0
 Model: openai/whisper-large-v3
+Audio enhanced before transcription
 Language: English
 Edited to remove likely spurious repetitions.
 Privacy: Personal names masked using internal list (review recommended)
