@@ -374,8 +374,6 @@ output/
 
 **Note:** When speaker attribution is enabled, you get **both** regular and speaker-attributed versions. This gives you flexibility to use whichever format suits your needs.
 
-**Example Output:** A complete example transcript is available in `example_output/transcripts/`, showing a real transcription of the Codex Mentis podcast episode ["Behind the curtains: Methods used to investigate conceptual processing"](https://open.spotify.com/episode/56mb7N81kp3VPzhcijQXi0?si=m9cBWQ3rSHayTQAigEyOXQ). This demonstrates the system's output format, metadata headers, name masking and text processing quality.
-
 ## Processing Pipeline
 
 1. **Audio Enhancement**: Signal conditioning and noise reduction
@@ -1229,11 +1227,7 @@ The system implements comprehensive error handling including:
 │
 ├── example_output/               # Example transcription output
 │   └── transcripts/              # Sample transcript files
-│       ├── Behind the curtains_...transcript.txt  # Example text output
-│       └── Behind the curtains_...transcript.docx # Example Word output
-│
-├── tests/                        # Unit tests
-│   └── test_transcription.py
+│   └── name_masking_logs/        # Name masking logs
 │
 ├── audio_input/                  # Source audio files (.wav/.mp3/.m4a/.flac/.ogg/.aac)
 │
@@ -1301,7 +1295,7 @@ To add a new version:
    - **details**: Comprehensive change details
 3. The system automatically uses the latest version (by date) in all new transcripts
 
-## Example Transcript
+## Example Transcripts
 
 Example transcripts are available in the `example_output/transcripts/` directory, demonstrating the system's output format and capabilities. These transcripts contain transcriptions of the first four episodes of the podcast [Codex Mentis](https://open.spotify.com/show/4QXENVjprdaGkTvOexGvD3?si=cf4ad95b9acc4b4d). The examples showcase:
 
