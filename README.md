@@ -47,7 +47,7 @@ See [TROUBLESHOOTING.md](TROUBLESHOOTING.md) for known issues and version compat
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/pablobernabeu/secure_local_HPC_speech_transcription
 cd secure_local_HPC_speech_transcription
 
 # Run one-time setup (creates venv, installs packages, caches models)
@@ -55,11 +55,11 @@ chmod +x setup/setup_environment.sh
 ./setup/setup_environment.sh
 ```
 
-**HPC (CRITICAL - Read Carefully!):**
+**HPC:**
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/pablobernabeu/secure_local_HPC_speech_transcription
 cd secure_local_HPC_speech_transcription
 
 # CRITICAL: Activate environment BEFORE running setup
@@ -70,7 +70,7 @@ source activate_project_env.sh
 python setup/install_requirements.py
 ```
 
-**⚠️ HPC IMPORTANT:** Always activate `activate_project_env.sh` before any setup or package installation to ensure packages install to project space (typically ~200GB+), not personal quota (typically ~20GB).
+**⚠️ HPC:** Always activate `activate_project_env.sh` before any setup or package installation to ensure packages install to project space (typically ~200GB+), not personal quota (typically ~20GB).
 
 The setup script will:
 - Create a Python virtual environment
