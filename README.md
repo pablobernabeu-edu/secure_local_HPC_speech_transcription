@@ -186,7 +186,7 @@ If you use this workflow in your research, please cite:
   title={Enhanced Speech Transcription and Speaker Diarisation Workflow},
   author={Pablo Bernabeu},
   year={2025},
-  doi={10.5281/zenodo.17592924},
-  url={https://doi.org/10.5281/zenodo.17592924}
+  doi={10.5281/zenodo.17593181},
+  url={https://doi.org/10.5281/zenodo.17593181}
 }
 ```
