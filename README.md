@@ -15,7 +15,7 @@ This system provides end-to-end speech processing capabilities including audio e
 - HPC batch processing with SLURM job scheduling
 - Dual output formats (plain text and Microsoft Word)
 
-The repository includes [example output files](/example_output) demonstrating the system's transcription quality and formatting. 
+This repository includes [example output files](/example_output) demonstrating the system's transcription quality and formatting. 
 
 ## System Requirements
 
