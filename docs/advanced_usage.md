@@ -356,7 +356,7 @@ The system includes optional comprehensive names databases sourced from Facebook
 
 **Database Source:** The names database is provided by Philippe Remy's `name-dataset` project, available at: https://github.com/philipperemy/name-dataset
 
-**⚠️ IMPORTANT: These options are DISABLED by default** due to high false positive rates when masking common English words.
+**⚠️ IMPORTANT: The Facebook database is DISABLED by default** due to high false positive rates when masking common English words.
 
 #### Current Default Behaviour
 
