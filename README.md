@@ -181,7 +181,7 @@ This project was developed by Dr Pablo Bernabeu at the Department of Education a
 
 ## Citation
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17593181.svg)](https://doi.org/10.5281/zenodo.17593181)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17624811.svg)](https://doi.org/10.5281/zenodo.17624811)
 
 If you use this workflow in your research, please cite:
 
@@ -190,7 +190,7 @@ If you use this workflow in your research, please cite:
   title={Secure and scalable speech transcription for local and HPC},
   author={Pablo Bernabeu},
   year={2025},
-  doi={10.5281/zenodo.17593181},
-  url={https://doi.org/10.5281/zenodo.17593181}
+  doi={10.5281/zenodo.17624811},
+  url={https://doi.org/10.5281/zenodo.17624811}
 }
 ```
